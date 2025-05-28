@@ -12,10 +12,16 @@ Here are some ideas to get you started:
 
 Below is my personal fleet of repo. 
 
-| Name                                                                       |
+| AI                                                                         |
 |----------------------------------------------------------------------------| 
 | [MCP Gateway](https://github.com/jngk07/MCPGateway)                        |  
 | [Create MCP Server](https://github.com/jngk07/demoMcpServer)               |
+| [RAG](https://github.com/jngk07/RAG_DEMO)                                  |
+| [Vecotor DB](https://github.com/jngk07/VectorDB)                           |
+| [Google ADK + MCP](https://github.com/jngk07/GoogleADK_MCP)                |
+| [Simple AI agent ](https://github.com/jngk07/SimpleAIAgent)                |
+| [Workflow AI agent](https://github.com/jngk07/WorkFlowAgent)               |
+| [Trading Stocks by AI agent](https://github.com/jngk07/stockAgent)         |
 
 
  
