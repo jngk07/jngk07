@@ -24,5 +24,6 @@ Below is my personal fleet of repo.
 | [Trading Stocks by AI agent](https://github.com/jngk07/stockAgent)         |
 
 
- 
+ * [arrow-playground](https://github.com/jngk07/arrow-playground/blob/main/README.md)
+   
  
